@@ -1,0 +1,16 @@
+body {
+    color: white;
+    background-color: #4ABDAC;
+    position: relative;
+    margin: 0;
+    padding-bottom: 3.5rem;
+    min-height: 100%;
+}
+
+.center{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    text-align: center;
+}
