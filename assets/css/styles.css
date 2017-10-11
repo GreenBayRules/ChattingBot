@@ -1,3 +1,4 @@
+@import url("http://fonts.googleapis.com/css?family=Lato");
 body {
     color: white;
     background-color: #4ABDAC;
@@ -13,4 +14,8 @@ body {
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     text-align: center;
+}
+
+body {
+    font-family: 'Lato';
 }
